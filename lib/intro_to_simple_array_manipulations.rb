@@ -20,11 +20,7 @@ def using_concat(my_favorite_things, more_favs)
     instruments.flatten
   end
   
-  def using_delete(instructors,my_element)
-    instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-    my_element = "Steven"
-    no_offense_steven = instructors.delete(my_element)
-  end
+ 
   
   def using_delete_at(famous_robots, integer)
     famous_robots = ["Johnny 5", "R2D2", "Robocop"]
