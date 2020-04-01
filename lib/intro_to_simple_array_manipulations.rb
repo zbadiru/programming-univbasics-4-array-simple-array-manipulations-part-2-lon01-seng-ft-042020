@@ -17,3 +17,4 @@ def using_concat(my_favorite_things, more_favs)
   
   def using_flatten()
     
+  end
