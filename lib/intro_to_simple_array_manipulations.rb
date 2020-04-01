@@ -24,4 +24,5 @@ def using_concat(my_favorite_things, more_favs)
     instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
     no_steven = "Steven"
     no_offense_steven = instructors.delete(no_steven)
+    instructors
   end
