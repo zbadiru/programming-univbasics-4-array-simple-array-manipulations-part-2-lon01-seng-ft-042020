@@ -22,8 +22,8 @@ def using_concat(my_favorite_things, more_favs)
   
   def using_delete(instructors,my_element)
     instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-    @my_element = "Steven"
-    no_offense_steven = instructors.delete(@my_element)
+    my_element = "Steven"
+    no_offense_steven = instructors.delete(my_element)
   end
   
   def using_delete_at(famous_robots, integer)
