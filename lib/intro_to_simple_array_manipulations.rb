@@ -26,7 +26,7 @@ def using_concat(my_favorite_things, more_favs)
     no_offense_steven = instructors.delete
   end
   
-  def using_delete_at()
+  def using_delete_at(famous_robots, integer)
     famous_robots = ["Johnny 5", "R2D2", "Robocop"]
     famous_robots.delete_at(2) 
 
