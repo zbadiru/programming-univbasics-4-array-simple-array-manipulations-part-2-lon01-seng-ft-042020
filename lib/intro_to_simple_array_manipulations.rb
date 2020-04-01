@@ -14,3 +14,6 @@ def using_concat(my_favorite_things, more_favs)
     haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
     new_array = haircuts.uniq
   end
+  
+  def using_flatten()
+    
