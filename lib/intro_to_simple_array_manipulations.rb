@@ -25,3 +25,7 @@ def using_concat(my_favorite_things, more_favs)
     no_steven = "Steven"
     no_offense_steven = instructors.delete
   end
+  
+  def using_delete_at()
+    
+  end 
